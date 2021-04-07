@@ -134,7 +134,7 @@ Concepts.
 ### Data Sets
 * Department of Agriculture, Fisheries and Forestry - South African Environmental GIS Data, ''Soil and Terrain Database (SOTER) for South Africa,'' 
 	March 17, 2020, Distributed by Open Africa.
-	https://africaopendata.org/dataset/department-of-agriculture-fisheriesand-forestry-south-african-environmental-gis-data
+	https://africaopendata.org/dataset/department-of-agriculture-fisheries-and-forestry-south-african-environmental-gis-data
 
 * International Soil Reference and Information Centre (ISRIC) - Soil and Terrain (SOTER) database programme, ''Environmental GIS Data,'' 
 	November 17, 2015, Distributed by ISRIC Data Hub.
